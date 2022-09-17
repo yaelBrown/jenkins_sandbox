@@ -1,0 +1,7 @@
+JeNkInS
+  Simplilearn Jenkins tut - https://www.youtube.com/watch?v=FX322RVNGj4
+
+  docker pull jenkins/jenkins
+  docker run -p 8080:8080 --name=jenkins-master -d jenkins/jenkins
+
+  admin;71ad71b35622494ea795d7dc6ebe2b1e
